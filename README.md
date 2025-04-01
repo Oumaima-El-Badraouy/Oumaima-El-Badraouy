@@ -3,7 +3,7 @@
 💻 **Full-Stack Developer** | Passionate about building modern and efficient web applications.  
 
  About Me:
-- 🌐 Skilled in **JavaScript**, **Node.js**, **React**, **Express.js**, and **MongoDB**.
+- 🌐 Skilled in **JavaScript**, **Node.js**, **React**, **Express.js**, **Java**,**LARAVEL**,**PHP**, **PostgreSQL**, **SQL**and **MongoDB**.
 - 🖥️ Experienced in backend development with **REST APIs**, database design, and authentication.
 - 🎨 Frontend enthusiast with a focus on creating intuitive and responsive UIs.
 - 📚 Always learning new technologies and improving my skills.
