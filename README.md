@@ -30,13 +30,22 @@
 
 ### 🔗 Socials
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=flat-square" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat-square" height="25" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat-square" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat-square" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat-square" height="25" />
+**<div align="left">
+
+  <a href="https://www.instagram.com/archika_lg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat-square" height="25" />
+  </a>
+  <a href="https://www.linkedin.com/in/oumaima-el-badraouy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat-square" height="25" />
+  </a>
+  <a href="mailto:omaimaelbdraouy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat-square" height="25" />
+  </a>
+  <a href="https://discordapp.com/users/1345932877493305354" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat-square" height="25" />
+  </a>
 </div>
+**
 
 ---
 
