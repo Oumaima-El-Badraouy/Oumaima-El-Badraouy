@@ -8,7 +8,6 @@
 </div>
 
 
----
 
 ### 🛠️ Languages & Tools
 <div align="left">
@@ -26,11 +25,10 @@
 
 
 
----
 
 ### 🔗 Socials
 
-**<div align="left">
+<div align="left">
 
   <a href="https://www.instagram.com/archika_lg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat-square" height="25" />
@@ -45,9 +43,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat-square" height="25" />
   </a>
 </div>
-**
 
----
 
 
 
