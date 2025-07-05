@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oumaima El Badraouy and I'm a Full-Stack Developer from Morocco 🇲🇦</h2>
+<h2 align="left">Hi! My name is Oumaima El Badraouy and I'm a Full-Stack Developer from Morocco 🇲🇦</h2>
 
 ---
 
@@ -11,16 +11,16 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:20px; width:20px; object-fit:contain; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:20px; width:20px; object-fit:contain; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:20px; width:20px; object-fit:contain; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:20px; width:20px; object-fit:contain; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:20px; width:20px; object-fit:contain; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:20px; width:20px; object-fit:contain; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height:20px; width:20px; object-fit:contain; margin-right:10px;" />
 </div>
+
 
 ---
 
