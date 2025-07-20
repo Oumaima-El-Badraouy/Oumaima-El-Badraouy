@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:30px; width:30px; object-fit:contain; margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:30px; width:30px; object-fit:contain; margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="height:30px; width:30px; object-fit:contain; margin-right:10px;" title="Scrum/DevOps" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="height:30px; width:30px; object-fit:contain; margin-right:10px;" title="C" />
+
 </div>
 
 
