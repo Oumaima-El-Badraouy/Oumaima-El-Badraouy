@@ -2,11 +2,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oumaima-El-Badraouy&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="100" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oumaima-El-Badraouy&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="100" />
-</div>
-
 
 
 ### 🛠️ Languages & Tools
