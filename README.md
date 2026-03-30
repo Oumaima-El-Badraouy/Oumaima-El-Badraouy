@@ -2,7 +2,7 @@
 
 ### A Web and Mobile  Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Oumaima-El-Badraouy&label=Profile views&color=0e75b6&style=flat" alt="Oumaima-El-Badraouy" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=Oumaima-El-Badraouy&label=Profile views&color=0e75b6&style=flat" alt="Oumaima-El-Badraouy" /> 
 
 - 🌱 I'm currently learning **EDA(Event Driven Architecture )**
 
