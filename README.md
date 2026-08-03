@@ -38,10 +38,8 @@ Each project has a README with setup and run instructions. If you'd like to try 
 ---
 
 ## Get in touch
-
-- Portfolio / demos: (link to your live portfolio or project demos)
-- Email: add-your-email@example.com
-- LinkedIn: add-your-linkedin
+- Email: omaimaelbdraouy@gmail.com
+- LinkedIn:https://www.linkedin.com/in/oumaima-el-badraouy
 
 ---
 
